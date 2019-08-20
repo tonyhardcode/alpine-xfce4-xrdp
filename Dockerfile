@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.10.2
 
 # add packages
 #RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
